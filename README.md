@@ -1,9 +1,9 @@
 # ST2S: A Spatiotemporal Two-Stage Learning Framework for Pulse Estimation
 
 ## Overview
-This repository contains the implementation of **ST2S**, a spatiotemporal two-stage learning framework for remote photoplethysmography (rPPG)-based heart rate estimation. The framework introduces a novel spatiotemporal representation of video data and a two-stage learning approach to improve pulse estimation accuracy by selecting the most informative input images for the regression model.
+This repository contains the implementation of **ST2S-rPPG**, a spatiotemporal two-stage learning framework for remote photoplethysmography (rPPG)-based heart rate estimation. The framework introduces a novel spatiotemporal representation of video data and a two-stage learning approach to improve pulse estimation accuracy by selecting the most informative input images for the regression model.
 
-**Note:** The accompanying paper for this work, *"ST2S-rPPG: A Spatiotemporal Two-Stage Learning Approach for Pulse Estimation Using Video"*, is currently under review. Details and updates will be shared upon publication.
+**Note:** The accompanying paper for this work, *"ST2S-rPPG: A Spatiotemporal Two-Stage Learning Approach for Pulse Estimation Using Video"* will be shared upon publication.
 
 ---
 
